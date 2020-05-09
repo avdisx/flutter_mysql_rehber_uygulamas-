@@ -2,4 +2,6 @@
 
 Bu uygulamada "mysql1" paketi ile kişi listesi oluşturduk.
 
-![uygulama ekranı](assets/images/kisiListesi.gif)
+<p align="center">
+  <img src="assets/images/kisiListesi.gif">
+</p>
