@@ -1,0 +1,23 @@
+name: flutter_mysql_avdisx
+description: this project created by avdisx
+# Code by avdisx 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mysql1: ^0.17.1
+  flushbar: ^1.10.2
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
